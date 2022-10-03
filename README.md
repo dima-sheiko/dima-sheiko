@@ -1,4 +1,4 @@
-### Hey there 👋
+<h1>Hey there 👋</h1>
 
 My name is Dima and I'm passionate about web development 😇
 
